@@ -1,0 +1,8 @@
+altair
+numpy
+pandas
+pydeck
+streamlit 
+openai
+lyzr
+pdfminer.six
