@@ -1,5 +1,5 @@
 .streamlit/secrets.toml
-*.py
+
 *.wav
 
 .venv/
